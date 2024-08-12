@@ -1,6 +1,6 @@
-package leetcode.interview.array_string.t88;
+package leetcode.interview.array_string;
 
-class Solution {
+class T88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int[] numsRes = new int[m + n];
 

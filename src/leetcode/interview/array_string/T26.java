@@ -1,6 +1,6 @@
-package leetcode.interview.array_string.t26;
+package leetcode.interview.array_string;
 
-class Solution {
+class T26 {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 1) return 1;
 

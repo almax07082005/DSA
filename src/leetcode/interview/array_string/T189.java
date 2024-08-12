@@ -1,6 +1,6 @@
-package leetcode.interview.array_string.t189;
+package leetcode.interview.array_string;
 
-class Solution {
+class T189 {
     public void rotate(int[] nums, int k) {
         k %= nums.length;
         int[] sliceArray = new int[k];

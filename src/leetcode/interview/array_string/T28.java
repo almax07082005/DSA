@@ -1,6 +1,6 @@
-package leetcode.interview.array_string.t28;
+package leetcode.interview.array_string;
 
-class Solution {
+class T28 {
     public int strStr(String haystack, String needle) {
         return haystack.indexOf(needle);
     }
