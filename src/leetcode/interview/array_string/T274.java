@@ -1,6 +1,6 @@
 package leetcode.interview.array_string;
 
-class T274 {
+public class T274 {
     private boolean isThis(int hIndex, int[] citations) {
         int count = 0;
         for (int citation : citations) {

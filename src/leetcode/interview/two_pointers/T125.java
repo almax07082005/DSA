@@ -1,6 +1,6 @@
 package leetcode.interview.two_pointers;
 
-class T125 {
+public class T125 {
     public boolean isPalindrome(String s) {
         s = s.toLowerCase();
 

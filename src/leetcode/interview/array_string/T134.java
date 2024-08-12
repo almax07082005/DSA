@@ -1,6 +1,6 @@
 package leetcode.interview.array_string;
 
-class T134 {
+public class T134 {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int length = gas.length;
         int gasAvailable = 0;
